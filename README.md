@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,6 +12,7 @@
             height: 100vh;
             background-color: #000;
             overflow: hidden;
+            width:100%;
         }
         canvas {
             display: block;
